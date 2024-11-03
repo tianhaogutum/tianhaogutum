@@ -5,19 +5,14 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently pursuing my MSc in Computer Science at the Technical University of Munich, ranked top 10 worldwide (THE RANK).
-- 🎓 &nbsp; Graduated with a BSc in Computer Science and Business Administration from TUM, with a GPA in the top 1% in Mathematics.
+- 🎓 &nbsp; Graduated with a BSc in Computer Science
 - 🧠 &nbsp; My bachelor thesis explored the *Effectiveness of Search-Based Testing on a Deep Reinforcement-Learned Swarm Controller*.
-- 💼 &nbsp; I have experience as a Data Analyst, Research Assistant, and Machine Learning Engineer across multiple industries, including real estate and technology. 
-- 🤔 &nbsp; I’m constantly exploring new technologies, including AI, LLM, and software development, and I’m passionate about leveraging tech to solve complex problems.
-
-<h3> 🛠 Tech Stack </h3>
-
-- 💻 &nbsp; Python | C | Java | C++ | SQL | Assembly  
-- 🔧 &nbsp; Machine Learning | Neural Networks | Docker | Linux | React | Springboot
+- 💼 &nbsp; I have experience as a Technical Consultant, Data Analyst, Research Assistant, and Machine Learning Engineer across multiple industries, including real estate and technology. 
+- 🤔 &nbsp; I ❤️ consulting. I’m passionate about leveraging tech to solve complex problems.
 
 <h3> 🌍 Languages </h3>
 
-- German (DSD C1) | English (Fluent) | Chinese (Native)
+- German (DSD C1) | English (Business Fluent) | Chinese (Native)
 
 ---
 

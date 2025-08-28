@@ -4,11 +4,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently pursuing my MSc in Computer Science at the Technical University of Munich, ranked top 10 worldwide (THE RANK 2022).
-- 🎓 &nbsp; Graduated with a BSc in Computer Science.
-- 🧠 &nbsp; My bachelor thesis explored the *Effectiveness of Search-Based Testing on a Deep Reinforcement-Learned Swarm Controller*.
-- 💼 &nbsp; I have experience as a Technical Consultant, Data Analyst, Research Assistant, and Machine Learning Engineer across multiple industries, including real estate and technology. 
-- 🤔 &nbsp; I ❤️ consulting. I’m passionate about leveraging tech to solve complex problems.
+- 🔭 &nbsp; I’m currently pursuing my MSc in Computer Science at the Technical University of Munich.
+- 💼 &nbsp; AI Dev at BMW Munich.
 
 <h3> 🌍 Languages </h3>
 

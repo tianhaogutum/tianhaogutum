@@ -9,4 +9,4 @@
 
 ---
 
-Looking forward to connecting and collaborating with professionals across the tech industry! Feel free to reach out to discuss tech, data, or any exciting opportunities 🚀
+Looking forward to connecting and collaborating with professionals across the tech industry! Feel free to reach out to discuss tech, research or any exciting opportunities 🚀
